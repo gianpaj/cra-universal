@@ -5,7 +5,7 @@
   "devDependencies": {
     "better-npm-run": "^0.1.1",
     "cra-universal": "^4.3.2",
-    "react-scripts": "3.1.2"
+    "react-scripts": "3.3.1"
   },
   "dependencies": {
     "@cra-express/core": "^4.3.2",
